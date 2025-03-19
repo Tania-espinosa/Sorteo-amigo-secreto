@@ -1,5 +1,4 @@
 # Sorteo-amigo-secreto
-# Sorteo-amigo-secreto
 <h1> Bienvenido </h1>
 
 <h2>Interactua con una página para sortear un amigo</h2>
